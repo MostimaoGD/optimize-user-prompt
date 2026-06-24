@@ -1,4 +1,4 @@
 interface:
-  display_name: "Optimize User Prompt"
-  short_description: "Improve rough prompts into clear, testable instructions."
-  default_prompt: "Use $optimize-user-prompt to rewrite my rough prompt into a clearer, stronger version."
+  display_name: "Optimize User Prompt / 优化提示词"
+  short_description: "Rewrite rough prompts into clearer bilingual-ready instructions."
+  default_prompt: "Use $optimize-user-prompt to rewrite my rough prompt into a clearer Chinese or English version."
