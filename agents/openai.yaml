@@ -1,0 +1,4 @@
+interface:
+  display_name: "Optimize User Prompt"
+  short_description: "Improve rough prompts into clear, testable instructions."
+  default_prompt: "Use $optimize-user-prompt to rewrite my rough prompt into a clearer, stronger version."
